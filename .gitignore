@@ -5,6 +5,7 @@
 ### C++ ###
 # Prerequisites
 *.d
+glm/
 
 # Compiled Object files
 *.slo
