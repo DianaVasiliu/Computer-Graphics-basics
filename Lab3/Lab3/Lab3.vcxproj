@@ -143,11 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="loadShaders.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="03_03_3dPolygons_new.cpp" />
-    <ClCompile Include="loadShaders.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="03_03_Shader.frag" />
