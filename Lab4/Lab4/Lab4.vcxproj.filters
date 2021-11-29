@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="loadShaders.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="lab4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -50,10 +47,5 @@
     <None Include="shader.vert">
       <Filter>Resource Files</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="loadShaders.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

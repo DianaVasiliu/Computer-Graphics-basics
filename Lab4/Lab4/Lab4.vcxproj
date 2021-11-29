@@ -144,7 +144,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="lab4.cpp" />
-    <ClCompile Include="loadShaders.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="04_01_Shader.frag" />
@@ -156,9 +155,6 @@
     <None Include="04_03_Shader.vert" />
     <None Include="shader.frag" />
     <None Include="shader.vert" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="loadShaders.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
